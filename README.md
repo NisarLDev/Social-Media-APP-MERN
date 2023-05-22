@@ -236,3 +236,49 @@ I' am changed in the file templete App.jsx in the next function for corrected er
 
     https://www.youtube.com/watch?v=KXzLyHr8UVE
 
+### Security error corrected in the template App.jsx of ViteJS
+
+
+1 - Sintaxis Markdown al completo - Cheatsheet en español
+
+    https://markdown.es/sintaxis-markdown/
+
+2 -Introducción a Markdown | La sintaxis de Markdown con ejemplos - IONOS
+
+    https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/
+
+3 - Cómo utilizar Markdown para escribir documentación | Adobe Experience Cloud
+    
+    https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=es
+
+4 - Cómo dar formato al código en Markdown
+
+    https://www.freecodecamp.org/espanol/news/como-formatear-codigo-en-markdown/
+
+5 - Crear y resaltar bloques de código - Documentación de GitHub
+
+    https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+
+6 - ¿Cómo insertar código fuente de programación en las entradas de vBulletin? - BC de SiteGround
+
+    https://www.siteground.es/kb/insertar-codigo-fuente-programacion-vbulletin/
+
+7 - Crear snipetts adaptables para mostrar código fuente en las páginas
+
+    https://norfipc.com/codigos/crear-snipetts-adaptables-para-mostrar-codigo-fuente-paginas.php
+
+8 - 🚀10 Webs interesantes para probar tus Códigos Online | Consultor y Mentor estratégico | Pedro De la nube💙
+
+    https://www.pedrodelanube.com/10-webs-para-probar-tus-codigos-online/
+
+9 - Escribir codigo fuente en el contenido de página HTML
+    
+    https://desarrolloweb.com/faq/sobre-mostrar-codigo-fuente
+
+Cómo citar en HTML: <blockquote>, <q> y <cite> – CybMeta
+https://cybmeta.com/blockquote-q-y-cite
+
+<q>: El elemento de cita en línea - HTML: Lenguaje de etiquetas de hipertexto | MDN
+https://developer.mozilla.org/es/docs/Web/HTML/Element/q
+
+
