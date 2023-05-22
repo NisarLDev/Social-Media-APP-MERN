@@ -138,6 +138,11 @@ I' am changed in the file templete App.jsx in the next function for corrected er
 
 ```
 
+### Error on importing module express in the server side
+
+npm i --save-dev @types/express
+To solve.
+
 ### Bibliography
 
 
