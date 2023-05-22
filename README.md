@@ -27,3 +27,8 @@ Create one APP Web for Social Media.
 
 
     4 - https://guias.donweb.com/como-crear-una-aplicacion-con-el-stack-mern/
+
+#### MERN Stack: Qué es y qué ventajas ofrece
+
+
+    5 - https://openwebinars.net/blog/mern-stack-que-es-y-que-ventajas-ofrece/
