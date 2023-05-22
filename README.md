@@ -49,6 +49,7 @@ Second attempt proven ViteJS  instead of npx create-react-app
 
 
 
+### Problem solved with ViteJS
 
 ### Finished the React inicialized
 
