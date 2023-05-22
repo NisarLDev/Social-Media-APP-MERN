@@ -4,6 +4,8 @@ Create one APP Web for Social Media.
 
 ## Steps followed to complete the project 
 
+The original steps in the followed process during the first attempt until errors have arisen 
+
 Create the environment of the project:
 
     1 - Create the main folders.
