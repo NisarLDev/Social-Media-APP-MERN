@@ -79,7 +79,7 @@ Page of comparation of  yield: https://swc.rs/blog/perf-swc-vs-babel
 In the new structure, the file App.jsx is equal that App.js and main.jsx is equal that index.js.
 
 I' am changed in the file templete App.jsx the next function for corrected error security:
-       <textarea cols='80' rows='1'>
+ ```
  return (
             <>
               <div>
@@ -105,12 +105,9 @@ I' am changed in the file templete App.jsx the next function for corrected error
             </>
           )
         }
-</textarea>
-
-        
-        </pre></code>
+```
 ## To
-
+```
  return (
     <>
       <div>
@@ -137,7 +134,7 @@ I' am changed in the file templete App.jsx the next function for corrected error
   )
 }
 
-
+```
 
 ### Bibliography
 
