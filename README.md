@@ -31,7 +31,7 @@ Create the environment of the project:
         2 - Added to package.json the text "type": "module",
 
 
-    Second attempt proven ViteJS  instead of npx create-react-app 
+Second attempt proven ViteJS  instead of npx create-react-app 
 
         Need to install the following packages:
           create-vite@4.3.1
