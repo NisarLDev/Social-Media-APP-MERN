@@ -47,6 +47,20 @@ Second attempt proven ViteJS  instead of npx create-react-app
           npm install
           npm run dev
 
+         Into the server folder:
+        
+        1 - cd TRAVELERS_PROJECT/server
+        
+        2 - touch index.js
+        
+        3 - npm init -y
+
+        Install the dependencies:
+        
+        1 - npm install body-parse cors express mongoose nodemon
+
+        2 - Added to package.json the text "type": "module",
+
 
 
 ### Problem solved with ViteJS
