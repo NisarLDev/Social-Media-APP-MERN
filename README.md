@@ -2,6 +2,20 @@
 
 Create one APP Web for Social Media.
 
+## Steps followed to complete the project 
+
+Create the environment of the project:
+
+    1 - Create the main folders.
+
+        1 - mkdir -p TRAVELERS_PROJECT/{client,server}
+        
+        2 - cd TRAVELERS_PROJECT/client
+        
+        3 - For create project with react: npx create-react-app ./
+
+        
+
 
 
 
