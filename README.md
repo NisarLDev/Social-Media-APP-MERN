@@ -41,6 +41,12 @@ Second attempt proven ViteJS  instead of npx create-react-app
         ✔ Select a framework: › React
         ✔ Select a variant: › JavaScript + SWC
 
+        Done. Now run:
+
+          cd Travelers_project
+          npm install
+          npm run dev
+
 
 
 
