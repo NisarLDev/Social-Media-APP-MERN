@@ -1,11 +1,6 @@
-import  React from 'react';
+import React from "react";
+import { ReactDOM } from "react";
 
-const App = () => {
-    return (
-        <div>
-            <h1><App/h1>
-        </div>
-    );
-}
+import App from "./App";
 
-export default App;
+ReactDOM.render(<App />, document.getElementById('root'));
