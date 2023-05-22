@@ -33,6 +33,8 @@ Create the environment of the project:
 
 Second attempt proven ViteJS  instead of npx create-react-app 
 
+    npx create-react-app is a obsolete command
+
       1 - In the client
 
         Need to install the following packages:
