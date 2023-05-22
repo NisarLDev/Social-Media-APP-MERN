@@ -8,8 +8,12 @@
     
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Nisar Laftissi (NisarLDev)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/NisarLDev//Social-Media-APP-MERN/issues"
+  },
+  "homepage": "https://github.com/NisarLDev/Social-Media-APP-MERN#readme",
   "dependencies": {
     "body-parse": "^0.1.0",
     "cors": "^2.8.5",
