@@ -67,6 +67,10 @@ Second attempt proven ViteJS  instead of npx create-react-app
 
 ### Problem solved with ViteJS
 
+Selected javascript with compilator SWC development in Rust language being much more faster than Babel during the compilation process.
+
+Page of comparation of  yield: https://swc.rs/blog/perf-swc-vs-babel
+
 ### Finished the React inicialized
 
 
@@ -145,5 +149,28 @@ Second attempt proven ViteJS  instead of npx create-react-app
     https://developer.mozilla.org/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
 
 
+4 - Vite 4: Una nueva forma de desarrollar aplicaciones de React con SWC - YouTube
 
+    https://www.youtube.com/watch?v=HxhHoqmgxZs
+
+5 - Novedades de Vue 3 un año después: Vite, Pinia y más! - YouTube
+
+    https://www.youtube.com/watch?v=5XII2X2FHsU
+
+6 - Cómo testear los componentes de React: La guía completa
+    
+    https://www.freecodecamp.org/espanol/news/como-probar-los-componentes-de-react-la-guia-completa/
+
+7 - Optimizando el Rendimiento – React
+
+    https://es.legacy.reactjs.org/docs/optimizing-performance.html
+
+8 - Instalación – React
+
+    https://es.react.dev/learn/installation
+
+
+9 - Create React App vs VITE vs NEXTJS ✅ Cómo CREAR un PROYECTO REACT 😎 Curso de React desde cero #2 - YouTube
+
+    https://www.youtube.com/watch?v=KXzLyHr8UVE
 
