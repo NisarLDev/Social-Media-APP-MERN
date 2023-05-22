@@ -58,3 +58,20 @@ Create the environment of the project:
 
 
     5 - https://openwebinars.net/blog/mern-stack-que-es-y-que-ventajas-ofrece/
+
+
+#### Solución al error "unable to resolve dependency tree While resolving..."
+
+    6 - https://blog.pleets.org/article/soluci%C3%B3n-al-error-unable-to-resolve-dependency-tree-while-resolving
+
+#### javascript - What does npm install --legacy-peer-deps do exactly? When is it recommended / What's a potential use case? - Stack Overflow
+
+    7 - https://stackoverflow.com/questions/66239691/what-does-npm-install-legacy-peer-deps-do-exactly-when-is-it-recommended-wh
+
+#### How to Use NPM --legacy-peer-deps command - Articles about design and front end development
+
+    8 -https://weekendprojects.dev/posts/how-to-use-npm-legacy-peer-deps-command/
+
+#### How to Use NPM --legacy-peer-deps command - Articles about design and front end development
+    9 - https://weekendprojects.dev/posts/how-to-use-npm-legacy-peer-deps-command/#the---legacy-peer-deps-flag-and-react
+
