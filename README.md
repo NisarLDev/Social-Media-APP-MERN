@@ -275,10 +275,12 @@ I' am changed in the file templete App.jsx in the next function for corrected er
     
     https://desarrolloweb.com/faq/sobre-mostrar-codigo-fuente
 
-Cómo citar en HTML: <blockquote>, <q> y <cite> – CybMeta
-https://cybmeta.com/blockquote-q-y-cite
+10 - Cómo citar en HTML: <blockquote>, <q> y <cite> – CybMeta
+    
+    https://cybmeta.com/blockquote-q-y-cite
 
-<q>: El elemento de cita en línea - HTML: Lenguaje de etiquetas de hipertexto | MDN
-https://developer.mozilla.org/es/docs/Web/HTML/Element/q
+11 - <q>: El elemento de cita en línea - HTML: Lenguaje de etiquetas de hipertexto | MDN
+
+    https://developer.mozilla.org/es/docs/Web/HTML/Element/q
 
 
