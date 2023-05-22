@@ -28,6 +28,7 @@ Create the environment of the project:
 
         2 - Added to package.json the text "type": "module",
 
+        ### Finished the React inicialized
 
 
 ### Bibliography
