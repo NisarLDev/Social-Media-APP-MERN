@@ -30,6 +30,11 @@ Create the environment of the project:
 
         2 - Added to package.json the text "type": "module",
 
+
+    Second attempt proven ViteJS  instead of npx create-react-app 
+
+
+
 ### Finished the React inicialized
 
 
