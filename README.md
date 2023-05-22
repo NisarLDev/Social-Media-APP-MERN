@@ -78,6 +78,8 @@ Page of comparation of  yield: https://swc.rs/blog/perf-swc-vs-babel
 
 In the new structure, the file App.jsx is equal that App.js and main.jsx is equal that index.js.
 
+Bug of security in the template App.jsx "Using target="_blank" without rel="noreferrer" (which implies rel="noopener") is a security risk in older browsers: see https://mathiasbynens.github.io/rel-noopener/#recommendationseslintreact/jsx-no-target-blank"
+
 I' am changed in the file templete App.jsx in the next function for corrected error security:
  ```
  return (
@@ -236,9 +238,12 @@ I' am changed in the file templete App.jsx in the next function for corrected er
 
     https://www.youtube.com/watch?v=KXzLyHr8UVE
 
-### Security error corrected in the template App.jsx of ViteJS
+### Security bug corrected in the template App.jsx of ViteJS
+
+Using target="_blank" without rel="noreferrer" (which implies rel="noopener") is a security risk in older browsers: see https://mathiasbynens.github.io/rel-noopener/#recommendationseslintreact/jsx-no-target-blank
 
 
+### Cite the bug on Github 
 1 - Sintaxis Markdown al completo - Cheatsheet en español
 
     https://markdown.es/sintaxis-markdown/
