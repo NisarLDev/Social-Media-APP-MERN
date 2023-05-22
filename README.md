@@ -14,7 +14,18 @@ Create the environment of the project:
         
         3 - For create project with react: npx create-react-app ./
 
+        Into the server folder:
         
+        1 - cd TRAVELERS_PROJECT/server
+        
+        2 - touch index.js
+        
+        3 - npm init -y
+
+        Install the dependencies:
+        
+        4 - npm install body-parse cors express mongoose nodemon
+
 
 
 
