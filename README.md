@@ -24,9 +24,9 @@ Create the environment of the project:
 
         Install the dependencies:
         
-        4 - npm install body-parse cors express mongoose nodemon
+        1 - npm install body-parse cors express mongoose nodemon
 
-
+        2 - Added to package.json the text "type": "module",
 
 
 
