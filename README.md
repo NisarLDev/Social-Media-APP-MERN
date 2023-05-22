@@ -87,6 +87,24 @@ Create the environment of the project:
 #### Top JavaScript VSCode Extensiones para un desarrollo más rápido 🔥 | by Wilber Ccori huaman | Medium
 
     12 - https://medium.com/@maniakhitoccori/top-javascript-vscode-extensiones-para-un-desarrollo-m%C3%A1s-r%C3%A1pido-2351d7b0ae23
+    
+    
+    
+###  Error encountered in project execution does not read the index.html.  Proven solution: Use VITE.js instead of create-react-app to create the project.
+
+
+1 - DEJA de usar create-react-app porque ha muerto ❌ React se pasa a Vite ✅ - YouTube
+
+    https://www.youtube.com/watch?v=GRr9pdqE5QA
+
+2 - Migrando de Create React App a Vite - YouTube
+
+    https://www.youtube.com/watch?v=i8SRQrflLpM
+
+3 - Primeros pasos en React - Aprende desarrollo web | MDN
+    
+    https://developer.mozilla.org/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
+
 
 
 
