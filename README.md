@@ -74,6 +74,12 @@ Page of comparation of  yield: https://swc.rs/blog/perf-swc-vs-babel
 ### Finished the React inicialized
 
 
+### New Structure created with ViteJS
+
+In the new structure, the file App.jsx is equal that App.js and main.jsx is equal that index.js.
+
+
+
 ### Bibliography
 
 
