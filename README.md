@@ -74,4 +74,19 @@ Create the environment of the project:
 
 #### How to Use NPM --legacy-peer-deps command - Articles about design and front end development
     9 - https://weekendprojects.dev/posts/how-to-use-npm-legacy-peer-deps-command/#the---legacy-peer-deps-flag-and-react
+    
+    
+#### Extensiones de VSCode para Javascript: descubre las mejores | Arsys
+
+    10 - https://www.arsys.es/blog/extensiones-vscode
+
+#### 10 Mejores extensiones de VS Code para DEVS de JavaScript – CIBERNINJAS
+
+    11 - https://ciberninjas.com/vsc-mejores-extensiones/#1_ESLint
+
+#### Top JavaScript VSCode Extensiones para un desarrollo más rápido 🔥 | by Wilber Ccori huaman | Medium
+
+    12 - https://medium.com/@maniakhitoccori/top-javascript-vscode-extensiones-para-un-desarrollo-m%C3%A1s-r%C3%A1pido-2351d7b0ae23
+
+
 
