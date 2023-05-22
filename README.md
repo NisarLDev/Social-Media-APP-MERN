@@ -15,3 +15,15 @@ Create one APP Web for Social Media.
 #### React 18 Tutorial:
 
     2 - https://invidious.nerdvpn.de/watch?v=Flbw5BX_AX0
+    
+    
+#### SPA con MERN: ejemplo de aplicación web
+
+
+    3 - https://parzibyte.me/blog/2020/12/21/spa-mern-ejemplo-aplicacion-web/
+    
+    
+#### Cómo crear una aplicación con el stack MERN
+
+
+    4 - https://guias.donweb.com/como-crear-una-aplicacion-con-el-stack-mern/
