@@ -33,6 +33,15 @@ Create the environment of the project:
 
     Second attempt proven ViteJS  instead of npx create-react-app 
 
+Need to install the following packages:
+  create-vite@4.3.1
+Ok to proceed? (y) y
+✔ Project name: … Travelers_project
+✔ Package name: … travelers-project
+✔ Select a framework: › React
+✔ Select a variant: › JavaScript + SWC
+
+
 
 
 ### Finished the React inicialized
