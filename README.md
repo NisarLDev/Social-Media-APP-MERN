@@ -80,6 +80,8 @@ Page of comparation of  yield: https://swc.rs/blog/perf-swc-vs-babel
 
 In the new structure, the file App.jsx is equal that App.js and main.jsx is equal that index.js.
 
+.jsx files use the declarative paradigm and .js imperative.
+
 Bug of security in the template App.jsx "Using target="_blank" without rel="noreferrer" (which implies rel="noopener") is a security risk in older browsers: see https://mathiasbynens.github.io/rel-noopener/#recommendationseslintreact/jsx-no-target-blank"
 
 I' am changed in the file templete App.jsx in the next function for corrected error security:
