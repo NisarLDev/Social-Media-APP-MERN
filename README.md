@@ -250,6 +250,9 @@ To solve.
 9 - Create React App vs VITE vs NEXTJS ✅ Cómo CREAR un PROYECTO REACT 😎 Curso de React desde cero #2 - YouTube
 
     https://www.youtube.com/watch?v=KXzLyHr8UVE
+    
+    
+    
 
 ### Security bug corrected in the template App.jsx of ViteJS
 
@@ -300,5 +303,33 @@ Using target="_blank" without rel="noreferrer" (which implies rel="noopener") is
 11 - <q>: El elemento de cita en línea - HTML: Lenguaje de etiquetas de hipertexto | MDN
 
     https://developer.mozilla.org/es/docs/Web/HTML/Element/q
+
+    
+#### Try Catch structure for testing
+    
+    1 - reactjs - try-catch statement in React JSX - Stack Overflow
+    
+    https://stackoverflow.com/questions/51833422/try-catch-statement-in-react-jsx
+
+try...catch - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
+
+javascript - React - console warnings & errors - Stack Overflow
+https://stackoverflow.com/questions/54937139/react-console-warnings-errors
+
+8 common React error messages and how to address them - LogRocket Blog
+https://blog.logrocket.com/8-common-react-error-messages-how-address-them/
+
+Error Boundaries – React
+https://legacy.reactjs.org/docs/error-boundaries.html
+
+JSX In Depth – React
+https://legacy.reactjs.org/docs/jsx-in-depth.html
+
+Writing Markup with JSX – React
+https://react.dev/learn/writing-markup-with-jsx
+
+How to Handle Errors in React | AppSignal Blog
+https://blog.appsignal.com/2022/06/15/how-to-handle-errors-in-react.html
 
 
