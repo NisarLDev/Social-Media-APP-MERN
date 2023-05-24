@@ -66,7 +66,7 @@ Second attempt proven ViteJS with jsx and swc instead of npx create-react-app
         2 - Added to package.json the text "type": "module",
 
 
-Second attempt proven ViteJS with JavaScript Vanilla  instead of npx create-react-app 
+Third attempt proven ViteJS with JavaScript Vanilla  instead of npx create-react-app 
 
 
         npm create vite@latest
