@@ -66,9 +66,10 @@ Second attempt proven ViteJS with jsx and swc instead of npx create-react-app
         2 - Added to package.json the text "type": "module",
 
 
-Third attempt proven ViteJS with JavaScript Vanilla  instead of npx create-react-app 
+Third attempt proven ViteJS with JavaScript Vanilla and jsx instead of npx create-react-app 
 
-
+  1 - In the client
+  
         npm create vite@latest
         ✔ Project name: … Travelers_project
         ✔ Package name: … travelers_project
@@ -81,6 +82,24 @@ Third attempt proven ViteJS with JavaScript Vanilla  instead of npx create-react
           npm install
           npm run dev
 
+ Fourth attempt proven ViteJS with with jsx and swc instead of npx create-react-app 
+
+
+  1 - In the client
+
+        Need to install the following packages:
+          create-vite@4.3.1
+        Ok to proceed? (y) y
+        ✔ Project name: … Travelers_project
+        ✔ Package name: … travelers-project
+        ✔ Select a framework: › React
+        ✔ Select a variant: › JavaScript + SWC
+
+        Done. Now run:
+
+          cd Travelers_project
+          npm install
+          npm run dev
 
 ### Problem solved with ViteJS
 
