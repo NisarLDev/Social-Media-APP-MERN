@@ -369,3 +369,15 @@ How to Handle Errors in React | AppSignal Blog
 https://blog.appsignal.com/2022/06/15/how-to-handle-errors-in-react.html
 
 
+####  Know which version of React is being used
+    
+    Como hago para consultar que versión de React tengo instalado?
+    https://platzi.com/discusiones/1651-react-ejs/123365-como-hago-para-consultar-que-version-de-react-tengo-instalado/
+
+    [Resuelta] javascript | ¿Cómo se puede saber la versión de
+    https://www.iteramos.com/pregunta/88513/como-se-puede-saber-la-version-de-react-que-se-esta-ejecutando-en-el-navegador
+
+    How to check the version of ReactJS ? - GeeksforGeeks
+    https://www.geeksforgeeks.org/how-to-check-the-version-of-reactjs/
+
+
