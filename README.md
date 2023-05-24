@@ -2,7 +2,15 @@
 
 Create one APP Web for Social Media.
 
-## Unfortunately the font used as a guide for this project uses an outdated version 16.12 of React and it will require more development time to update it to the latest stable version of React 18.2.0 at this time 
+## Unfortunately the font used as a guide for this project uses an outdated version 16.12 of React and it will require more development time to update it to the latest stable version of React 18.2.0 at this time given the change of operation of React from version 16.12 to 18.2.0
+
+###  As far as possible I will update the project if possible and feasible
+
+###  Thank you in advance for your understanding 
+
+#### Date 24-5-2023
+
+
 
 
 ## Steps followed to complete the project 
