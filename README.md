@@ -31,7 +31,7 @@ Create the environment of the project:
         2 - Added to package.json the text "type": "module",
 
 
-Second attempt proven ViteJS  instead of npx create-react-app 
+Second attempt proven ViteJS with jsx and swc instead of npx create-react-app 
 
     npx create-react-app is a obsolete command
 
@@ -65,6 +65,21 @@ Second attempt proven ViteJS  instead of npx create-react-app
 
         2 - Added to package.json the text "type": "module",
 
+
+Second attempt proven ViteJS with JavaScript Vanilla  instead of npx create-react-app 
+
+
+        npm create vite@latest
+        ✔ Project name: … Travelers_project
+        ✔ Package name: … travelers_project
+        ✔ Select a framework: › React
+        ✔ Select a variant: › JavaScript
+
+        Done. Now run:
+
+          cd Travelers_project
+          npm install
+          npm run dev
 
 
 ### Problem solved with ViteJS
